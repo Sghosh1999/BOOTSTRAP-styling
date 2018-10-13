@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	     <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
+	     <link rel="stylesheet" type="text/css" href="css/style.css">
+	     <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+	     <script src="js/menu.js"></script>
+	     <title>SS Tech</title>
+</head>
+<body>
+	
+
+	<i class="fa fa-bars toggle_menu"></i>
+	<div class="sidebar_menu">
+		<i class="fa fa-times"></i>
+		<center>
+			
+			<a href="index.html"><h1 class="boxed_item">SAYANTAN<span class="logo_bold">GHOSH</span></h1></a>
+		</center>
+
+
+
+
+	</div>
+</body>
